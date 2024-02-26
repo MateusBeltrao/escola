@@ -121,6 +121,12 @@ p{
     min-height: 100vh;
 }
 
+.logo{
+    width: 4rem;
+    margin-bottom: -0.8rem;
+}
+
+
 .menu-spacing{
     height: 65px;
 }
@@ -442,6 +448,10 @@ body .full-width{
 
     .menu-spacing {
         display: none;
+    }
+
+    .logoH1{
+        margin-left: 5rem;
     }
 
    
